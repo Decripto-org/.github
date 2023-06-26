@@ -1,4 +1,4 @@
-# Benvenuti su Decripto.org
+# Decripto.org
 
 ![image](https://github.com/Decripto-org/.github/assets/134168296/734dc8f6-b152-4cb0-ad83-bcb4a9c0bb2d)
 
