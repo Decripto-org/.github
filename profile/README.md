@@ -1,30 +1,30 @@
-# Benvenuti su Decripto.org
+# Decripto.org
 
 ![image](https://github.com/Decripto-org/.github/assets/134168296/734dc8f6-b152-4cb0-ad83-bcb4a9c0bb2d)
 
-Benvenuti nel repository GitHub ufficiale di Decripto.org, il giornale web3 che si dedica alla blockchain, alle criptovalute e al debunking delle truffe e degli scam nel mondo delle criptomonete.
+Welcome to the official GitHub repository of Decripto.org, the web3 journal dedicated to blockchain, cryptocurrencies, and debunking scams in the world of cryptocurrencies.
 
-## Chi siamo
-Decripto.org è un team di esperti nel settore della blockchain e delle criptovalute che si occupa di fornire informazioni accurate, notizie e approfondimenti su tematiche legate al mondo delle criptomonete. Il nostro obiettivo principale è fornire agli utenti le conoscenze necessarie per navigare in modo sicuro nel complesso e in continua evoluzione panorama delle criptovalute.
+## About Us
+Decripto.org is a team of experts in the blockchain and cryptocurrency industry, providing accurate information, news, and insights on topics related to cryptocurrencies. Our main goal is to equip users with the knowledge they need to navigate the complex and ever-evolving landscape of cryptocurrencies safely.
 
-## Cosa facciamo
-Il nostro giornale web3 offre una vasta gamma di contenuti, tra cui:
+## What We Do
+Our web3 journal offers a wide range of content, including:
 
-- Notizie: ti terremo aggiornato sulle ultime novità nel mondo delle criptovalute, inclusi aggiornamenti di mercato, sviluppi tecnologici e regolamentari.
-- Approfondimenti: pubblichiamo articoli dettagliati e approfonditi su argomenti come blockchain, criptovalute, token non fungibili (NFT) e smart contract.
-- Debunking: ci impegniamo a smascherare truffe e scam nel settore delle criptovalute, fornendo analisi dettagliate e avvertendo gli utenti su potenziali rischi.
-- Guide: forniamo guide passo-passo e tutorial su come utilizzare le criptovalute, creare un portafoglio sicuro e partecipare a progetti basati sulla blockchain.
+- News: We keep you updated on the latest happenings in the world of cryptocurrencies, including market updates, technological advancements, and regulatory developments.
+- Insights: We publish detailed and in-depth articles on topics such as blockchain, cryptocurrencies, non-fungible tokens (NFTs), and smart contracts.
+- Debunking: We are committed to exposing scams and fraudulent activities in the cryptocurrency industry, providing detailed analysis and warning users about potential risks.
+- Guides: We provide step-by-step guides and tutorials on using cryptocurrencies, creating a secure wallet, and participating in blockchain-based projects.
 
-## Contributi
-Siamo felici di accogliere contributi esterni da parte della community. Se sei interessato a collaborare con noi, puoi aprire una pull request per proporre modifiche o aggiunte ai nostri articoli. Assicurati di seguire le nostre linee guida per i contributori, che puoi trovare nel file CONTRIBUTING.md.
+## Contributions
+We welcome external contributions from the community. If you're interested in collaborating with us, you can head over to the `crypto-scam-blacklist` repository and follow the steps to report a scam project.
 
-## Contattaci
-Se hai domande, suggerimenti o vuoi entrare in contatto con il team di Decripto.org, puoi farlo attraverso i seguenti canali:
+## Contact Us
+If you have any questions, suggestions, or want to get in touch with the Decripto.org team, you can do so through the following channels:
 
-- Sito web: https://decripto.org
+- Website: https://decripto.org
 - Email: info@decripto.org
 - Twitter: https://twitter.com/Decripto_org
-- Canale Telegram: https://t.me/decripto_org
-- Gruppo Telegram: https://t.me/decriptodiscussioneofficial
+- Telegram Channel: https://t.me/decripto_org
+- Telegram Group: https://t.me/decriptodiscussioneofficial
 
-Siamo entusiasti di condividere con te le nostre conoscenze nel mondo delle criptovalute e di fornirti le informazioni necessarie per prendere decisioni consapevoli nel settore della blockchain. Grazie per il tuo interesse e per il supporto a Decripto.org!
+We're excited to share our knowledge in the world of cryptocurrencies and provide you with the information you need to make informed decisions in the blockchain industry. Thank you for your interest and support for Decripto.org!
