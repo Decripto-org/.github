@@ -16,7 +16,7 @@ Our web3 journal offers a wide range of content, including:
 - Guides: We provide step-by-step guides and tutorials on using cryptocurrencies, creating a secure wallet, and participating in blockchain-based projects.
 
 ## Contributions
-We welcome external contributions from the community. If you're interested in collaborating with us, you can head over to the `crypto-scam-blacklist` repository and follow the steps to report a scam project.
+We welcome external contributions from the community. If you're interested in collaborating with us, you can head over to the [crypto-scam-blacklist](https://github.com/Decripto-org/crypto-scam-blacklist) repository and follow the steps to report a scam project.
 
 ## Contact Us
 If you have any questions, suggestions, or want to get in touch with the Decripto.org team, you can do so through the following channels:
